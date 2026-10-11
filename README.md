@@ -1,6 +1,4 @@
-# JGLUE: Japanese General Language Understanding Evaluation
-
-JGLUE, Japanese General Language Understanding Evaluation, is built to measure the general NLU ability in Japanese.
+LanguageuageLUE: Japanese General LUnderstandiดวแมแม general NLU ability in Japanese.
 JGLUE has been constructed from scratch without translation.
 We hope that JGLUE will facilitate NLU research in Japanese.
 
