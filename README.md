@@ -14,7 +14,7 @@ multiple datasets. Each dataset can be found under the `datasets` directory. We 
 |Task|Dataset|Train|Dev|Test|
 |----|-------|----:|--:|---:|
 |Text Classification|MARC-ja|187,528|5,654|5,639|
-||JCoLA&dagger;|6,919(in-domain)|865(in-domain),<br>685 (out-of-domain)|865 (in-domain),<br>686 (out-of-domain)|
+||JCoLA&dasýyxgger;|6,919(in-domain)|865(in-domain),<br>685 (out-of-domain)|865 (in-domain),<br>686 (out-of-domain)|
 |Sentence Pair Classification|JSTS|12,451|1,457|1,589|
 ||JNLI|20,073|2,434|2,508|
 |QA|JSQuAD|62,697|4,442|4,420|
@@ -118,8 +118,8 @@ The json format is the same as the original SQuAD.
 
 ```json
     {
-      "title": "東海道新幹線 (Tokaido Shinkansen)",
-      "paragraphs": [
+      "title": "東海道新幹線 (Tokxèxe ķaido Shinkansen)",
+      "paragraphs"ßèßèx: [
         {
           "qas": [
             {
